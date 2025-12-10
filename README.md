@@ -11,6 +11,11 @@ The analysis includes inequality measurement, tail behavior estimation, structur
 
 ---
 
+## Mentor
+**prof. Biljana Tojtovska Ribarski**
+
+---
+
 ## Project Overview
 
 Gross Domestic Product (GDP) per capita is a key economic indicator that reflects the average standard of living in a country. This project analyzes global GDP per capita data to answer important questions such as:
