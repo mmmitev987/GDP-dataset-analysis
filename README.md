@@ -3,7 +3,7 @@
 This project presents a statistical analysis of global **GDP per capita** data with the goal of exploring economic inequality, structural changes in economic growth, and extreme economic events.
 
 The analysis includes inequality measurement, tail behavior estimation, structural break detection, and extreme value modeling applied to real-world economic data from 1960 to 2023.
-It is a project for the subject Statistical Modelling
+It is a project for the subject Statistical Modelling.
 
 ---
 
