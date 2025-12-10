@@ -2,7 +2,7 @@
 
 This project presents a statistical analysis of global **GDP per capita** data with the goal of exploring economic inequality, structural changes in economic growth, and extreme economic events.
 
-The analysis includes inequality measurement, tail behavior estimation, structural break detection, and extreme value modeling applied to real-world economic data from **1960 to 2023**.
+The analysis includes inequality measurement, tail behavior estimation, structural break detection, and extreme value modeling applied to real-world economic data from 1960 to 2023.
 
 ---
 
@@ -18,7 +18,7 @@ Gross Domestic Product (GDP) per capita is a key economic indicator that reflect
 - How unequally is wealth distributed across countries?
 - How extreme are the richest economies compared to other developed nations?
 - When did major structural economic changes occur?
-- How likely are extreme economic growth or decline events?
+- How likely are extreme economic growth events?
 
 To address these questions, the project applies several advanced statistical techniques and visualizations.
 
